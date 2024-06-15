@@ -60,7 +60,7 @@ export default function PaginaSquirtle() {
                         <li>
                             <a href="./pages/pokemon.html?pokemon=squirtle">
                                 <figure>
-                                    <Image
+                                    <img
                                         src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png"
                                         alt="Squirtle"
                                     />
@@ -72,7 +72,7 @@ export default function PaginaSquirtle() {
                         <li>
                             <a href="./pages/pokemon.html?pokemon=wartortle">
                                 <figure>
-                                    <Image
+                                    <img
                                         src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/008.png"
                                         alt="Wartortle"
                                     />
@@ -84,7 +84,7 @@ export default function PaginaSquirtle() {
                         <li>
                             <a href="./pages/pokemon.html?pokemon=blastoise">
                                 <figure>
-                                    <Image
+                                    <img
                                         src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png"
                                         alt="Blastoise"
                                     />
